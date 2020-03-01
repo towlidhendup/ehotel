@@ -1,0 +1,14 @@
+.vl{
+    border-left: 1px solid black;
+    height: 200px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
